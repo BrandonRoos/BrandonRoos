@@ -76,7 +76,7 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
   
 
 ## Try Hack ME
-
+Ranked in the top 10%
 ## Certifications
 
 <div>
