@@ -14,6 +14,7 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
 --- 
 
 ## Projects
+- [Home Lab](https://github.com/BrandonRoos/Home-Lab)
 - [Password Generator in Python](https://github.com/BrandonRoos/Python_GeneratePassword)
 - [Mastercard SIM Phishing Simulation](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-)
 - [Encryption and Decryption in Python (AES)](https://github.com/BrandonRoos/Encryption-and-Decryption-PY-AES)
