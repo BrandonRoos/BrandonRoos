@@ -1,4 +1,4 @@
-# Hello, I'm Brandon Roos
+# Brandon Roos
 
 <a href="https://www.linkedin.com/in/brandon-roos-mcclinton/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -24,8 +24,9 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
 ### Network
 <div>
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-    
+   <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+   <img src="https://img.shields.io/badge/-pfSense-333333?style=for-the-badge&logo=pfSense&logoColor=white" />
+
   
 </div>
 
@@ -40,6 +41,11 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
 ###  Penetration Testing
 <div>
   <img src="https://img.shields.io/badge/-Metasploit-34314c?style=for-the-badge&logo=metasploit&logoColor=white" />
+   <img src="https://img.shields.io/badge/-John%20the%20Ripper-444444?style=for-the-badge&logo=johntheripper&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+   <img src="https://img.shields.io/badge/-OWASP%20ZAP-005577?style=for-the-badge&logo=OWASP&logoColor=white" />
+
+
 </div>
 
 ### Operating Systems
@@ -53,7 +59,7 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
 </div>
 
 
-### Programming Languages 
+### Programming/Scrtipting  Languages 
 <div>
  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -62,6 +68,8 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
    <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+
   
 </div>
  
@@ -71,7 +79,7 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
    <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Akamai-009688?style=for-the-badge&logo=akamai&logoColor=white" />
+
 
    </div>
   
