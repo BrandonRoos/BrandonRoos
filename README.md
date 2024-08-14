@@ -85,7 +85,10 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
   
 
 ## Try Hack ME
-Ranked in the top 10%
+Ranked in the top 10% of users. 
+#
+<img src="https://tryhackme-badges.s3.amazonaws.com/BrandonRoos.png" alt="TryHackMe">
+
 ## Certifications
 
 <div>
