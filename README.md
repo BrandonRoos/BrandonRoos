@@ -59,7 +59,7 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
 </div>
 
 
-### Programming/Scrtipting  Languages 
+### Programming/Scripting Languages 
 <div>
  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
