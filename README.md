@@ -48,6 +48,7 @@ I am seeking a position in the cybersecurity field where I can leverage my Bache
 
 </div>
 
+
 ### Operating Systems
 <div>
      <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
