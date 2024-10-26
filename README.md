@@ -8,7 +8,7 @@ As a dedicated cybersecurity enthusiast with a strong academic background and a 
 
 ## Objective
 
-I am seeking a position in the cybersecurity field where I can leverage my Bachelor's degree in Information Technology, specialized in Data Networking and Cyber Security, along with my ongoing Master's studies in Software Design & Management. I am committed to ensuring the integrity of technological infrastructures and safeguarding digital assets from cyber threats.
+I am seeking a position in the cybersecurity field where I can leverage my Bachelor's degree in Information Technology, specializing in Data Networking and Cyber Security, along with my ongoing Master's studies in Software Design & Management. I am committed to ensuring the integrity of technological infrastructures and safeguarding digital assets from cyber threats.
 
 
 --- 
