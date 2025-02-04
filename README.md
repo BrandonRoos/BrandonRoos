@@ -15,6 +15,7 @@ I am seeking a position in cybersecurity where I can leverage my Bachelor's degr
 
 ## Projects
 - [Home Lab](https://github.com/BrandonRoos/Home-Lab)
+- [Keylogger](https://github.com/BrandonRoos/KeyloggerEncryption)
 - [Password Generator in Python](https://github.com/BrandonRoos/Python_GeneratePassword) 
 - [Mastercard SIM Phishing Simulation](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-)
 - [Encryption and Decryption in Python (AES)](https://github.com/BrandonRoos/Encryption-and-Decryption-PY-AES)
