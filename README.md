@@ -79,9 +79,7 @@ Ranked in the **top 10%** of users.
 
 ## 📜 Certifications  
 
-### Certifications
 
-### Certifications
 
 - [![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-EF3B2D?style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/3e648525-b2f8-404c-b6ac-276163e10eb7/public_url)  
   🔹 **Google Cybersecurity Certificate** – Covers **incident response, SIEM tools, network security fundamentals, and hands-on security labs**.  
