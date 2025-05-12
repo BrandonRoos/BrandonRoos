@@ -1,11 +1,11 @@
-# Brandon Roos  
+# Brandon Roos McClinton
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-roos-mcclinton/)  
 
 ---
 
 ## 👋 About Me  
-Hi, I'm **Brandon Roos**, a cybersecurity enthusiast passionate about network security, penetration testing, and digital forensics.  
+Hi, I'm **Brandon Roos McClinton**, a cybersecurity enthusiast passionate about network security, penetration testing, and digital forensics.  
 I love building security-focused projects, maintaining my home lab, and continuously learning new tools and techniques in the field.
 
 ---
