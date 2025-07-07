@@ -11,7 +11,7 @@ I love building security-focused projects, maintaining my home lab, and continuo
 ---
 
 ## 🎯 Objective  
-I am seeking a position in cybersecurity where I can:  
+I am seeking a position in SOC or NOC where I can:  
 ✅ Leverage my **Bachelor's degree in Information Technology** (specializing in Data Networking and Cyber Security).  
 ✅ Apply my **Master’s studies in Software Design and Management**.  
 ✅ Ensure the **integrity of technological infrastructures** and **safeguard digital assets** from cyber threats.  
