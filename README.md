@@ -68,14 +68,6 @@ I am seeking a position in SOC or NOC where I can:
 
 ---
 
-## 🎖️ TryHackMe  
-Ranked in the **top 10%** of users.  
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/BrandonRoos.png)](https://tryhackme.com/p/BrandonRoos)  
-
-> 🔹 Notable rooms completed: **Attacktive Directory**, **Blue**, **Overpass**, **Linux PrivEsc**  
-
----
 
 ## 📜 Certifications  
 
@@ -88,6 +80,9 @@ Ranked in the **top 10%** of users.
 - [![Google Data Analytics Professional Certificate](https://img.shields.io/badge/-Google%20Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white)](https://www.credly.com/badges/1308cc78-207a-41c0-8cbd-64caeb317d02/public_url)  
   🔹 **Google Data Analytics Certificate** – Focuses on **data analysis, data visualization, and using tools like SQL, R, and Tableau**.  
   [View Certificate](https://www.credly.com/badges/1308cc78-207a-41c0-8cbd-64caeb317d02/public_url)
+
+
+
 
 
 
