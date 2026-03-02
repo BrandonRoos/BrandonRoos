@@ -1,7 +1,7 @@
 # Brandon Roos McClinton
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-roos-mcclinton/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BrandonRoos)
+[![Hack The Box](https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cac93-77db-711c-b744-fa3aa8d33473)
 
 ---
 
@@ -81,6 +81,6 @@ I'm targeting **SOC Analyst** and **Cybersecurity Analyst I** roles where I can 
 
 ## 📚 Training & Development
 
-- 🟩 **TryHackMe — SOC Level 1** (In Progress) — Log analysis, SIEM investigation, threat detection
+- 🟩 **Hack The Box** (Active) — Working through Starting Point; building hands-on skills in enumeration, exploitation fundamentals, and security analysis
 - 📖 **NIST Cybersecurity Framework** — Risk management and security controls
 - 🔬 **Home Lab** — Continuous hands-on practice in threat detection, network segmentation, and incident response
