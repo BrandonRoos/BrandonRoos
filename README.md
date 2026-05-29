@@ -23,12 +23,12 @@ I'm targeting **SOC Analyst** and **Cybersecurity Analyst I** roles where I can 
 
 | Project | Description |
 |---|---|
-| [🔵 Security Operations Home Lab](https://github.com/BrandonRoos/Home-Lab) | Segmented VLAN network with pfSense firewall, Wazuh SIEM, and Snort/Suricata IDS/IPS for threat detection and incident response simulation |
+| [🔵 Security Operations Home Lab](https://github.com/BrandonRoos/Home-Lab) | Segmented VLAN network with pfSense firewall, Wazuh SIEM, Twingate zero-trust remote access, and Quad9 DNS filtering for security monitoring and threat detection |
 | [🔎 HashDetect — Hash Type Identifier](https://github.com/BrandonRoos/hashdetect) | Python CLI tool that identifies hash types (MD5, SHA-1/256/512, bcrypt, NTLM, and more) by length, charset, and pattern with confidence scoring, JSON export, and batch processing — built for IR and threat-hunting workflows |
-| [🎣 Mastercard SIM Phishing Simulation](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-) | Authorized simulation targeting SIM-based MFA to identify vulnerabilities and document mitigation strategies |
-| [🔐 AES Encryption & Decryption Tool](https://github.com/BrandonRoos/Encryption-and-Decryption-PY-AES) | Python-based AES encryption tool for secure data transmission and storage |
-| [🔑 Keylogger with AES Encryption](https://github.com/BrandonRoos/KeyloggerEncryption) | Educational security research project analyzing keylogging techniques with AES encryption for forensic analysis |
-| [🛡️ Secure Password Generator](https://github.com/BrandonRoos/Python_GeneratePassword) | Python password generator enforcing complexity rules and security best practices |
+| [🎣 Mastercard Phishing Simulation](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-) | Phishing email analysis and campaign-results interpretation — identifying at-risk teams and building a targeted security-awareness training plan |
+| [🔐 AES Encryption & Decryption Tool](https://github.com/BrandonRoos/Encryption-and-Decryption-PY-AES) | Python-based Fernet (AES-128-CBC + HMAC) encryption tool for secure data transmission and storage |
+| [🔑 Keystroke Logging & Detection Study](https://github.com/BrandonRoos/KeyloggerEncryption) | Educational security research analyzing input-capture techniques (MITRE ATT&CK T1056.001) with a focus on detection via Sysmon and SIEM telemetry |
+| [🛡️ Secure Password Generator](https://github.com/BrandonRoos/Python_GeneratePassword) | Python password generator using the `secrets` CSPRNG and enforcing complexity rules and security best practices |
 
 ---
 
@@ -44,7 +44,6 @@ I'm targeting **SOC Analyst** and **Cybersecurity Analyst I** roles where I can 
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-333333?style=for-the-badge&logo=pfSense&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort%20%2F%20Suricata-CC0000?style=for-the-badge&logoColor=white)
 
 ### 🛡️ Endpoint & Vulnerability Management
 ![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-E84E0F?style=for-the-badge&logoColor=white)
