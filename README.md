@@ -27,7 +27,7 @@ I'm targeting **SOC Analyst** and **Cybersecurity Analyst I** roles where I can 
 | [🔎 HashDetect — Hash Type Identifier](https://github.com/BrandonRoos/hashdetect) | Python CLI tool that identifies hash types (MD5, SHA-1/256/512, bcrypt, NTLM, and more) by length, charset, and pattern with confidence scoring, JSON export, and batch processing — built for IR and threat-hunting workflows |
 | [🎣 Mastercard Phishing Simulation](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-) | Phishing email analysis and campaign-results interpretation — identifying at-risk teams and building a targeted security-awareness training plan |
 | [🔐 AES Encryption & Decryption Tool](https://github.com/BrandonRoos/Encryption-and-Decryption-PY-AES) | Python-based Fernet (AES-128-CBC + HMAC) encryption tool for secure data transmission and storage |
-| [🔑 Keystroke Logging & Detection Study](https://github.com/BrandonRoos/KeyloggerEncryption) | Educational security research analyzing input-capture techniques (MITRE ATT&CK T1056.001) with a focus on detection via Sysmon and SIEM telemetry |
+| [🔑 Keystroke Logging & Detection Study](https://github.com/BrandonRoos/Keystroke-Forensics-AES) | Educational security research analyzing input-capture techniques (MITRE ATT&CK T1056.001) with a focus on detection via Sysmon and SIEM telemetry |
 | [🛡️ Secure Password Generator](https://github.com/BrandonRoos/Python_GeneratePassword) | Python password generator using the `secrets` CSPRNG and enforcing complexity rules and security best practices |
 
 ---
