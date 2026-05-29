@@ -24,6 +24,7 @@ I'm targeting **SOC Analyst** and **Cybersecurity Analyst I** roles where I can 
 | Project | Description |
 |---|---|
 | [🔵 Security Operations Home Lab](https://github.com/BrandonRoos/Home-Lab) | Segmented VLAN network with pfSense firewall, Wazuh SIEM, and Snort/Suricata IDS/IPS for threat detection and incident response simulation |
+| [🔎 HashDetect — Hash Type Identifier](https://github.com/BrandonRoos/hashdetect) | Python CLI tool that identifies hash types (MD5, SHA-1/256/512, bcrypt, NTLM, and more) by length, charset, and pattern with confidence scoring, JSON export, and batch processing — built for IR and threat-hunting workflows |
 | [🎣 Mastercard SIM Phishing Simulation](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-) | Authorized simulation targeting SIM-based MFA to identify vulnerabilities and document mitigation strategies |
 | [🔐 AES Encryption & Decryption Tool](https://github.com/BrandonRoos/Encryption-and-Decryption-PY-AES) | Python-based AES encryption tool for secure data transmission and storage |
 | [🔑 Keylogger with AES Encryption](https://github.com/BrandonRoos/KeyloggerEncryption) | Educational security research project analyzing keylogging techniques with AES encryption for forensic analysis |
