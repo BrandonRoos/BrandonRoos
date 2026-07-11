@@ -46,7 +46,8 @@ Roles where the work rewards building systems, not just monitoring them. Open to
 
 | Project | Description |
 |---|---|
-| [🏠 Home Lab & SOC Detection Lab](https://github.com/BrandonRoos/Home-Lab) | Segmented VLAN network on pfSense with Twingate zero-trust access and Quad9 DNS filtering — paired with a virtualized SOC lab on Proxmox running Wazuh SIEM, adversary emulation via Atomic Red Team, and custom MITRE ATT&CK-mapped detection rules |
+| [🏠 Home Lab & SOC Detection Lab](https://github.com/BrandonRoos/Home-Lab) | Segmented VLAN network on pfSense with Twingate zero-trust access and Quad9 DNS filtering. Currently building a virtualized SOC lab on Proxmox — Wazuh SIEM, adversary emulation with Atomic Red Team, and custom MITRE ATT&CK-mapped detection rules |
+| [🌐 cyberobsidian.com — Architecture & Security](https://github.com/BrandonRoos/cyberobsidian-web) | Production Next.js 16 / TypeScript site for my MSSP, hardened end to end: CSP and full security-header set, server-side Turnstile bot verification, input validation with header-injection defense, rate limiting, and RFC 9116 `security.txt`. Architecture public, source private |
 | [🔎 HashDetect — Hash Type Identifier](https://github.com/BrandonRoos/hashdetect) | Python CLI that identifies hash types (MD5, SHA-1/256/512, bcrypt, NTLM, and more) by length, charset, and pattern with confidence scoring, JSON export, and batch processing — built for IR and threat-hunting workflows |
 | [🎣 Phishing Campaign Analysis](https://github.com/BrandonRoos/Mastercard-SIM-Phishing-) | Phishing email analysis and campaign-results interpretation — identifying at-risk teams and building a targeted security-awareness training plan |
 | [🔑 Keystroke Logging & Detection Study](https://github.com/BrandonRoos/Keystroke-Forensics-AES) | Security research analyzing input-capture techniques (MITRE ATT&CK T1056.001) with a focus on detection via Sysmon and SIEM telemetry |
